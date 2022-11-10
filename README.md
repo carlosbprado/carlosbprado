@@ -28,7 +28,12 @@ Here are some ideas to get you started:
   
   ### Redes sociais
 
-<p align="left"> <a href="https://www.dev.to/carlosbprado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/car" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://dev.to/carlosbprado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="carlosbprado" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlosbprado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlosbprado/" height="30" width="40" /></a>
+</p>
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosbprado" alt="carlosbprado" /></a> </p>
   
   ![snake gif](https://github.com/carlosbprado/carlosbprado/blob/output/github-contribution-grid-snake.svg)
     
