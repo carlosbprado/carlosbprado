@@ -1,6 +1,6 @@
 ### Olá eu sou Carlos Prado 👋
 
-- 🌱 Atualmente estou estudando desenvolvimento web fullstack na Trybe ...
+- 🌱 Atualmente estou estudando desenvolvimento backend na Trybe ...
 <!--
 **carlosbprado/carlosbprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
