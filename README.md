@@ -1,6 +1,14 @@
 ### Olá eu sou Carlos Prado 👋
 
-- 🌱 Atualmente estou estudando desenvolvimento backend na Trybe ...
+- 🌱 Atualmente estou estudando desenvolvimento **Backend** na Trybe ...
+- 
+- 👨‍💻 Meus projetos estão aqui (em desenvolvimento) [https://carlosbprado.github.io/](https://carlosbprado.github.io/)
+
+- 💬 Me pergunte sobre **React, BootStrap, JavaScript, HTML, CSS**
+
+- 📫 Como entrar em contato comigo **carlosbprado@outlook.com**
+
+- ⚡ Fato engraçado **Eu sempre desmontava as coisas em casa quando meus pais não estavam olhando**
 <!--
 **carlosbprado/carlosbprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
