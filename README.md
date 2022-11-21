@@ -1,7 +1,7 @@
 ### Olá eu sou Carlos Prado 👋
 
 - 🌱 Atualmente estou estudando desenvolvimento **Backend** na Trybe ...
-- 
+
 - 👨‍💻 Meus projetos estão aqui (em desenvolvimento) [https://carlosbprado.github.io/](https://carlosbprado.github.io/)
 
 - 💬 Me pergunte sobre **React, BootStrap, JavaScript, HTML, CSS**
